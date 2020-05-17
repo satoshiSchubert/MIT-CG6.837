@@ -9,7 +9,7 @@
 
 ### 1 TASK分析
 
-![.\img\class.png](./img/class.png)
+![.\img\class.png](class.png)
 ![.\img\scene.png](.\img\scene.png)
 
 下面右边的序号是在实验中实际完成的顺序
