@@ -33,7 +33,7 @@ Vec3f PhongMaterial::Shade(const Ray& ray, const Hit& hit, const Vec3f& l, const
 	//diff
 	Vec3f diffuse = diffuseColor * lightColor * std::max(normal.Dot3(l), 0.0f);//角度取值在[0,90],因此其二者夹角只能为正值，才出现漫反射和高光，如果为负值,光线打不到物体上,因此出现这种情况置0
 	//spec
-	Vec3f h = v + l;//不除2????猜想，/2只是影响整体值的大小，但对效果是一样的
+	Vec3f h = v + l;//取二者相加后的向量，再对其标准化
 	h.Normalize();
 	Vec3f specular = specularColor * lightColor * pow(max(normal.Dot3(h), 0.0f), exponent);
 	//ans
