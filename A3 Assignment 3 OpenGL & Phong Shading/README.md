@@ -1,4 +1,4 @@
-# A3：[Assignment 3: OpenGL & Phong Shading](http://groups.csail.mit.edu/graphics/classes/6.837/F04/assignments/assignment3/)
+# A3：[OpenGL & Phong Shading](http://groups.csail.mit.edu/graphics/classes/6.837/F04/assignments/assignment3/)
 ----
 
 ## 实验概述
@@ -63,6 +63,4 @@
 - [逆矩阵的含义和应用](https://www.mathsisfun.com/algebra/matrix-inverse.html)
 - [phong光照模型](https://wenku.baidu.com/view/4e6443ea9b89680202d8250f.html)（此中文PPT讲的还不错）
 
-## 源代码
 
-[Github]()
