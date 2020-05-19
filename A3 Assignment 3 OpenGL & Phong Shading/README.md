@@ -56,6 +56,12 @@
 ![./img/ans1.png](./img/ans1.png)
 ![./img/ans2.png](./img/ans2.png)
 
+## 参考资料
+- [符佬的github](https://github.com/fuzhanzhan/MIT-CG6.837-2004)
+- [奇异矩阵](https://baike.baidu.com/item/%E5%A5%87%E5%BC%82%E7%9F%A9%E9%98%B5/9658459?fr=aladdin)
+- [extern的使用](https://www.cnblogs.com/yuxingli/p/7821102.html)
+- [逆矩阵的含义和应用](https://www.mathsisfun.com/algebra/matrix-inverse.html)
+- [phong光照模型](https://wenku.baidu.com/view/4e6443ea9b89680202d8250f.html)（此中文PPT讲的还不错）
 
 ## 源代码
 
